@@ -1,3 +1,5 @@
+[ILCX 4H+ grade](https://github.com/zizonhyeontae218/ILCX_H-grade-system)
+
 # 10-step-on-people
 
 학교 발표를 위한 작은 한국어 1.58-bit 문장 이어쓰기 모델 패밀리입니다. `오늘 학교에서`처럼 문장 앞부분을 입력하면 그 뒤를 이어 생성합니다. 대화나 지식 질답 모델이 아닙니다.
